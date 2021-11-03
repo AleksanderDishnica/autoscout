@@ -15,4 +15,5 @@ How to install the project
 - All users in the database have the password as password
 
 The migration will autogenerate registered users and the administrator which all have the password as password.
+
 As well as popular cars, used cars, new cars.
