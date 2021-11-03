@@ -12,6 +12,7 @@ Please if you find any bugs, let me know and I will fix them.
 How to install the project
 - Clone the repository
 - php artisan migrate --seed
+- Don't forget to npm install!
 - All users in the database have the password as password
 
 The migration will autogenerate registered users and the administrator which all have the password as password.
